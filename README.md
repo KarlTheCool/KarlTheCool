@@ -1,5 +1,5 @@
 # Hi there 👋
-I go by Any/All and design, program, and test websites and games!
+I go by Any / All and design, program, and test websites and games!
 
 ## Sites
 * karlthecool.github.io [Source](https://github.com/KarlTheCool/karlthecool.github.io) [Link](https://ka.rlphilli.ps)
