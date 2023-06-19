@@ -2,7 +2,7 @@
 I go by Any / All and design, program, and test websites and games!
 
 ## Sites
-* karlthecool.github.io [Source](https://github.com/KarlTheCool/karlthecool.github.io) [Link](https://ka.rlphilli.ps)
+* karlthecool.github.io [Source](https://github.com/KarlTheCool/karlthecool.github.io) / [Link](https://ka.rlphilli.ps)
 
 ## Games
 * Sword Strike Space Vampires [Link](https://www.quivergamesvancouver.com/townone-1) / [Video](https://www.youtube.com/watch?v=O3E84-UGUWI)
